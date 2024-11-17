@@ -1,0 +1,41 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "fb15dede-a1ee-11ef-9e9b-3bad5c02a1e4",
+  "appTemplate": {
+    "mobileAppSettings": {
+      "object": {
+        "mobileOfflineModeEnabled": false,
+        "mobileOfflineModeDelaySync": false
+      }
+    },
+    "appMaxWidth": "1560px",
+    "experimentalFeatures": {
+      "object": {
+        "sourceControlTemplateDehydration": false
+      }
+    },
+    "pageCodeFolders": {
+      "object": {
+        "defaultPage": {
+          "array": []
+        },
+        "page1": {
+          "array": []
+        },
+        "vms": {
+          "array": ["vmAction"]
+        },
+        "kubernetes": {
+          "array": []
+        },
+        "settings": {
+          "array": []
+        }
+      }
+    },
+    "rootScreen": "vms",
+    "version": "3.119.0",
+    "experimentalDataTabEnabled": true
+  }
+}
